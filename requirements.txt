@@ -6,3 +6,8 @@ PyPDF2
 openai
 langchain
 python-multipart
+streamlit
+pydantic
+requests
+tqdm
+auth
